@@ -1,0 +1,49 @@
+.First{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 0px;
+    padding-left: 5px;
+    width: 150px;
+    border-radius: 6px;
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+}
+.Last{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 0px;
+    padding-left: 5px;
+    width: 150px;
+    border-radius: 6px;
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 400px;
+}
+.Email {
+    margin-top: 10px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 62px;
+    padding-left: 5px;
+    border-radius: 6px;
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+}
+button {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-style: none;
+    width: 318px;
+    height: 55px;
+    color: white;
+    background-color: rgb(10, 102, 194);
+    border-radius: 5px;
+}
