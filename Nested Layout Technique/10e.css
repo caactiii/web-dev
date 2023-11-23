@@ -1,0 +1,54 @@
+div {
+    width: 150px;
+    height: 246px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 4px;
+    display: inline-block;
+    margin-right: 8px;
+}
+img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 4px;
+    margin-left: 3px;
+    margin-bottom: 0px;
+}
+.mutual {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 6px;
+    display: inline;
+}
+button{
+    background-color: rgb(66, 103, 178);
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: white;
+    border: none;
+    margin-left: 3px;
+    border-radius: 4px;
+    font-size: 13px;
+    margin-top: 0px;
+}
+.mf {
+    height: 20px;
+    width: 20px;
+    margin-left: 2px;
+    margin-top: 2px;
+    border-radius: 10px;
+}
+.new {
+    width: 150px;
+    height: 30px;
+    box-shadow: none;
+    margin-top: 0px;
+    padding-top: 0px;
+}
