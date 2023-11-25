@@ -1,0 +1,23 @@
+.whole {
+    display: flex;
+    flex-direction: row;
+    height: 75px;
+}
+.left {
+    display: flex;
+    background-color: lightpink;
+    justify-content: center;
+    width: 100px;
+    align-items: center;
+}
+.right {
+    display: flex;
+    background-color: lightblue;
+    width: 200px;
+}
+.item {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
