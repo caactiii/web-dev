@@ -1,0 +1,30 @@
+.overall {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.leftside {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.rightside {
+    background-color: rgb(10, 102, 194);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-right: 5px;
+}
+.full{
+    height: 75px;
+    width: 400px;
+    border: none;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px gray;
+}
